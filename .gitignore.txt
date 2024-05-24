@@ -1,2 +1,2 @@
 # ignorar_esto.txt
-*.txt
+*).txt
